@@ -29,7 +29,7 @@ gantt_log.txt
 
 ## Run
 
-./simulator
+```./simulator```
 
 ## Output
 
