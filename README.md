@@ -25,7 +25,7 @@ gantt_log.txt
 
 ## Compilation
 
-gcc simulator.c scheduler.c -o simulator -pthread
+```gcc simulator.c scheduler.c -o simulator -pthread```
 
 ## Run
 
