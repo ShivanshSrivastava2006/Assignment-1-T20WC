@@ -25,11 +25,11 @@ gantt_log.txt
 
 ## Compilation
 
-```gcc simulator.c scheduler.c -o simulator -pthread```
+```g++ -O2 -pthread -lm -o grandfinale  ./yo.cpp```
 
 ## Run
 
-```./simulator```
+```./yo```
 
 ## Output
 
