@@ -16,13 +16,8 @@ A multithreaded cricket simulator built using C and POSIX threads to demonstrate
 ## Project Structure
 
 code/
-simulator.c
-scheduler.c
-scheduler.h
+yofinal.cpp
 
-results/
-match_log.txt
-gantt_log.txt
 
 ## Compilation
 
