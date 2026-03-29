@@ -25,11 +25,11 @@ gantt_log.txt
 
 ## Compilation
 
-```g++ -O2 -pthread -lm -o grandfinale  ./yo.cpp```
+```g++ -O2 -pthread -lm -o grandfinale  ./yofinal.cpp```
 
 ## Run
 
-```./yo```
+```./yofinal```
 
 ## Output
 
