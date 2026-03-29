@@ -11,6 +11,7 @@ A multithreaded cricket simulator built using C and POSIX threads to demonstrate
 - Round Robin bowler scheduler
 - Ball-by-ball match logging
 - Gantt chart event logging
+- Novelty: ***Match Intensity Parameter***
 
 ## Project Structure
 
