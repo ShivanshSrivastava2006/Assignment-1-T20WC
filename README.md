@@ -25,7 +25,7 @@ yofinal.cpp
 
 ## Run
 
-```./yofinal```
+```./grandfinale```
 
 ## Output
 
